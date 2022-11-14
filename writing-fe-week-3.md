@@ -65,12 +65,12 @@ Unit test merupakan tingkatan yang memiliki cost paling rendah serta waktu yang 
 1. Buat fitur lalu testing => Dilakukan dengan melakukan code untuk membuat fitur terlebih dahulu lalu melakukan testing terhadap programnya
 2. Buat testing lalu code fitur => Dilakukan dengan membuat testing terlebih dahulu lalu baru membuat code/fiturnya.
 
-####TDD CIRCLE OF LIFE 
+#### TDD CIRCLE OF LIFE 
  - Red zone => Kondisi dimana testingnya masih gagal / tidak sesuai ekspektasi karena codenya belum ada
  - Green zone => Kondisi dimana code sudah dibuat dan memenuhi ekpektasi dari test yang sudah dibuat
  - Blue => refactoring. memperbarui code dan membuat code lebih efisien dengan tetap memenuhi ekspektasi yang telah dibuat
 
-#####JEST
+##### JEST
 
 Jest merupakan salah satu framework yang digunakan untuk melakukan pengujian code javascript
 
